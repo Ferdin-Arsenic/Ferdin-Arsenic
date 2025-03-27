@@ -1,4 +1,4 @@
-<h1 align="center">🦸‍♂️ Hello, I'm Ferdin Arsenarendra – Trying My Best to Be Invincible!</h1>
+<h1 align="center">Hello, I'm Ferdin Arsenarendra – Trying My Best to Be ...</h1>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oydXloMHJqam0wd2I2NTk0dHhjdzk3dXl5aWZvYXU1dHEyZGEwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rUgkjoRgwo3wWMceFa/giphy.gif" width="500"/>
 </p>
