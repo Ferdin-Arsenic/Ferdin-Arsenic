@@ -12,9 +12,8 @@
 
 ### 🧬 About Me
 
-- 🎓 Mahasiswa/Developer.
-- ⚙️ Tertarik pada pengembangan **low-level systems**, **machine learning**, dan **pengolahan data**.
-- 🚀 Pekerja tangguh seperti Invincible yang selalu bangkit setelah jatuh.
+- 🎓 Undergraduate student at Institut Teknologi Bandung/ majoring on Computer Science .
+- ⚙️ I have an interest in **low-level systems**, **machine learning**, **software engineering**, and **data analyst**.
 
 ---
 
@@ -25,7 +24,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -38,7 +36,7 @@
 
 ---
 
-### 📡 Contact Me (in case of emergency 👇)
+### 📡 Contact Me 👇
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arxenarendra@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fredrinn_sen)
