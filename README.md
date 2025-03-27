@@ -5,8 +5,8 @@
 
 ---
 
-🗨️ *"And don't forget, I am ... Invincible"* – Mark Grayson  
-💪 *I’m not just strong, I’m getting stronger – with every line of code.*
+🗨️ *"I wasn't ready before, but now I am"*  
+*I’m not just strong, I’m getting stronger – with every line of code.*
 
 ---
 
