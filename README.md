@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">🦸‍♂️ Hello, I'm [Nama Kamu] – Trying My Best to Be Invincible!</h1>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oydXloMHJqam0wd2I2NTk0dHhjdzk3dXl5aWZvYXU1dHEyZGEwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rUgkjoRgwo3wWMceFa/giphy.gif" width="500"/>
+</p>
 
-<!--
-**Ferdin-Arsenic/Ferdin-Arsenic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🗨️ *"And don't forget, I am ... Invincible"* – Mark Grayson  
+💪 *I’m not just strong, I’m getting stronger – with every line of code.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧬 About Me
+
+- 🎓 Mahasiswa/Developer.
+- ⚙️ Tertarik pada pengembangan **low-level systems**, **machine learning**, dan **pengolahan data**.
+- 🚀 Pekerja tangguh seperti Invincible yang selalu bangkit setelah jatuh.
+
+---
+
+### 🛠️ Superpowers (Tech Stack)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📊 Battle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📡 Contact Me (in case of emergency 👇)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arxenarendra@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fredrinn_sen)
+
+---
+
+<p align="center">
+  <i>"I fight because it’s the right thing to do."</i><br>
+  <b>– You, probably after debugging for 3 hours</b>
+</p>
