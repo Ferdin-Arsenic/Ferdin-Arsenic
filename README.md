@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ferdin Arsenarendra – Trying My Best to Be ...</h1>
 <p align="center">
-  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2oydXloMHJqam0wd2I2NTk0dHhjdzk3dXl5aWZvYXU1dHEyZGEwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rUgkjoRgwo3wWMceFa/giphy.gif](https://hype.my/wp-content/uploads/2024/04/invulnerable.gif)" width="500"/>
+  <img src="https://github.com/Ferdin-Arsenic/Ferdin-Arsenic/blob/main/invincible-title-card.gif?raw=true" width="500"/>
 </p>
 
 ---
