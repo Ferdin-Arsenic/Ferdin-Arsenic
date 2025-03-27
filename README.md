@@ -12,7 +12,7 @@
 
 ### 🧬 About Me
 
-- 🎓 Undergraduate student at Institut Teknologi Bandung/ majoring on Computer Science .
+- 🎓 Undergraduate student at **Institut Teknologi Bandung**/**Computer Science** major.
 - ⚙️ I have an interest in **low-level systems**, **machine learning**, **software engineering**, and **data analyst**.
 
 ---
