@@ -45,5 +45,5 @@
 
 <p align="center">
   <i>"I fight because it’s the right thing to do."</i><br>
-  <b>– You, probably after debugging for 3 hours</b>
+  <b>– Me, probably after debugging for 3 hours</b>
 </p>
